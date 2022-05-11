@@ -1,2 +1,2 @@
 # telephone-number-validator-for-FCC-Class
-javascript telephone number validator
+javascript code for telephone number validator
